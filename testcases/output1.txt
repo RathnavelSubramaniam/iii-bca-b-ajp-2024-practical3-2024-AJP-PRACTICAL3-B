@@ -1,0 +1,3 @@
+Enter a line of text:
+Words starting with 'b': [Boy, baked, bread, baked, biscuits]
+Words ending with 'ED': [baked, baked]
